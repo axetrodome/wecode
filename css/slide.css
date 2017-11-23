@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 * {
   box-sizing:border-box;
 }
+=======
+* {box-sizing:border-box}
+>>>>>>> acf043a133c94798bebea0dfa8b4ea94a4512260
 
 /* Slideshow container */
 .slideshow-container {
